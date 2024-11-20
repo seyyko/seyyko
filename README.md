@@ -1,4 +1,4 @@
-**Hello!***
+**Hello!**
 
 I'm a student on a journey to becoming a full-stack web developer, and lately, I have an interest in front-end and back-end development. I believe great design isn't just about making things pretty; it's about making it work beautiful. Either learning new frameworks or debugging tricky issues, I'm all about crafting solutions that feel right.
 
