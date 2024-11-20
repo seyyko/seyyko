@@ -1,10 +1,11 @@
+**Hello!***
 
-**Hi there! 👋**
+I'm a student on a journey to becoming a full-stack web developer, and lately, I have an interest in front-end and back-end development. I believe great design isn't just about making things pretty; it's about making it work beautiful. Either learning new frameworks or debugging tricky issues, I'm all about crafting solutions that feel right.
 
-I'm a web developer who believes that great design isn't just about making things look good—it's about making them feel right. Whether it's crafting pixel-perfect layouts or debugging that one stubborn line of code at 2 a.m., I’m all in.
-When I'm not busy coding, you'll find me designing creative solutions to everyday problems (like figuring out why my coffee keeps disappearing 🤔). My motto? "Good design is like good coffee: strong, simple, and keeps you going."
-I’ve spent the last few years perfecting my craft in web development and design, blending functionality with aesthetics. From minimalist portfolios to intricate e-commerce sites, I thrive on turning ideas into experiences that make people say, “Wow, this is exactly what I needed!”
-So, if you're here to explore, buckle up—my portfolio is where clean code meets cool design with just a dash of nerdy humor. And yes, every pixel is intentional. 😉
+When I’m not coding, I’m often brainstorming creative ways to improve my skills—like turning everyday challenges into coding projects. My philosophy? "Good design is like architecture: it’s not just about how it looks, but how it stands the test of time."
 
-Let’s build something awesome together!
+With the growth in my skill set, I have already started working on projects that combine clean code with intuitive design. My aim is to be that developer who takes ideas and shapes them into seamless impactful user experiences.
 
+Thanks for stopping by my portfolio! It's a space where creativity meets continuous learning; I am excited to share this journey with you.
+
+Let's create something amazing together!
